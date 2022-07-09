@@ -19,8 +19,7 @@
 - ✅ **STAGED** → arq está “pronto” para ser commitado
 
   
-
-  ![lifecycle local](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b78445bf-cd92-47be-b032-b32de10aa1d1/Untitled.png)
+  ![lifecycle local](https://git-scm.com/book/en/v2/images/lifecycle.png "Lyfecicle Local")
 
   
 
@@ -52,7 +51,7 @@
 
 #### Após o commit
 
-- [fonte](https://stackoverflow.com/questions/4630312/reset-all-changes-after-last-commit-in-git)
+- [mais sobre..](https://stackoverflow.com/questions/4630312/reset-all-changes-after-last-commit-in-git)
 
 1. Resetar quaisquer alterações
 
